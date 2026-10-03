@@ -2,7 +2,7 @@
 
 A profile card with social link buttons, built as a [Frontend Mentor](https://www.frontendmentor.io) challenge. This was the first website I ever built, during my internship in [2nd_year].
 
-**[Live demo]()**
+**[Live demo](https://non1000.github.io/social-links-profile/)**
 
 ![Screenshot of the profile card](images/preview.png)
 
